@@ -1,0 +1,1000 @@
+ 1017  make
+ 1018  ls
+ 1019  cd i92rigam/
+ 1020  ls
+ 1021  cd check_brackets/
+ 1022  ls
+ 1023  md5sum -c DO_NOT_MODIFY.TXT 
+ 1024  ls
+ 1025  ./test_slist 
+ 1026  ./test_slist test_stack
+ 1027  clear
+ 1028  ./test_stack 
+ 1029  cleat
+ 1030  clear
+ 1031  l
+ 1032  ls
+ 1033  cd ..
+ 1034  ls
+ 1035  cd check_brackets/
+ 1036  ls
+ 1037  ./run_tests.sh 
+ 1038  ./run_tests.sh test_slist.cpp 
+ 1039  ./run_tests.sh test_slist.cpp
+ 1040  cd test_slist
+ 1041  cd tests_slist
+ 1042  ld
+ 1043  ls
+ 1044  cd .
+ 1045  ls
+ 1046  cd ..
+ 1047  ls
+ 1048  ./run_tests.sh test_slist.cpp /tests_slist
+ 1049  ./run_tests.sh /home/marcos/i92rigam/build-check_brackets-Desktop-Debug/test_slist tests_slist/
+ 1050  clear
+ 1051  cd ..
+ 1052  cd check_brackets/
+ 1053  ls
+ 1054  ./run_tests.sh /home/marcos/i92rigam/build-check_brackets-Desktop-Debug/test_slist tests_slist/
+ 1055  ls
+ 1056  cd i92rigam/
+ 1057  ls
+ 1058  cd check_brackets/
+ 1059  ls
+ 1060  ./run_tests.sh /home/marcos/i92rigam/build-check_brackets-Desktop-Debug/test_slist tests_slist/
+ 1061  ./run_tests.sh /home/marcos/i92rigam/build-check_brackets-Desktop-Debug/test_slist tests_slist/ > test.txt
+ 1062  ./run_tests.sh /home/marcos/i92rigam/build-check_brackets-Desktop-Debug/test_slist tests_slist/
+ 1063  ./run_tests.sh 
+ 1064  ./run_tests.sh /home/marcos/Desktop/check_brackets/build/test_slist check_brackets/
+ 1065  ./run_tests.sh /home/marcos/Desktop/check_brackets/build/test_slist test_slist/
+ 1066  ./run_tests.sh /home/marcos/Desktop/check_brackets/build/test_slist tests_slist/
+ 1067  ks
+ 1068  ls
+ 1069  cd Documents/
+ 1070  ls
+ 1071  cd VPProjects/
+ 1072  ls
+ 1073  python3 eduroam-linux-UdC.py 
+ 1074  sudo apt-get install clips
+ 1075  sudo yum install clips
+ 1076  yum
+ 1077  cd Documents/
+ 1078  ls
+ 1079  cd clips_core_source_630/
+ 1080  ls
+ 1081  clear
+ 1082  ls
+ 1083  make -f makefile.gcc
+ 1084  cd core/
+ 1085  ls
+ 1086  make -f makefile.gcc
+ 1087  ./clips
+ 1088  clips
+ 1089  ./clips
+ 1090  cd /home/marcos/Documents/clips_core_source_630/core
+ 1091  cd
+ 1092  cd /home/marcos/Documents/clips_core_source_630/core && ./clips
+ 1093  .~basrc
+ 1094  nano ~/.bashrc
+ 1095  clips
+ 1096  sudo apt install clips
+ 1097  sudo apt install clip
+ 1098  sudo apt install wine
+ 1099  clips
+ 1100  clips agenda
+ 1101  sudo apt get install wine
+ 1102  sudo apt-get install wine
+ 1103  wine
+ 1104  wine --help
+ 1105  clips
+ 1106  ls
+ 1107  cd Sites/
+ 1108  ls
+ 1109  cd MOTORHUB/
+ 1110  ls
+ 1111  docker-compose up
+ 1112  cd Desktop/
+ 1113  ls
+ 1114  ./comprobar_entrega.sh 
+ 1115  qmlscene
+ 1116  ./run_tests.sh /home/marcos/Desktop/check_brackets/build/test_slist tests_slist/
+ 1117  ./run_tests.sh /home/marcos/i92rigam/build-check_brackets-Desktop-Debug/test_slist tests_slist/
+ 1118  ./run_tests.sh /home/marcos/i92rigam/build-check_brackets-Desktop-Debug/test_stack tests_stack/
+ 1119  ./run_tests.sh /home/marcos/i92rigam/build-check_brackets-Desktop-Debug/test_check_brackets tests_check_brackets/
+ 1120  cd Desktop/
+ 1121  ls
+ 1122  ./comprobar_entrega.sh 
+ 1123  ls
+ 1124  cd i92rigam/
+ 1125  ls
+ 1126  cd build-check_brackets-Desktop-Debug/
+ 1127  ls
+ 1128  ./test_slist 
+ 1129  ./test_slist /home/marcos/i92rigam/check_brackets/test_slist/
+ 1130  ./test_slist /home/marcos/i92rigam/check_brackets/tests_slist/
+ 1131  ls
+ 1132  cd Desktop/
+ 1133  ls
+ 1134  ./comprobar_entrega.sh 
+ 1135  ls
+ 1136  cd Repositories/
+ 1137  ls
+ 1138  cd University/
+ 1139  ls
+ 1140  cd Ed/
+ 1141  ls
+ 1142  cd P2
+ 1143  ls
+ 1144  cd i92rigam/
+ 1145  ls
+ 1146  cd binary_tree/
+ 1147  ls
+ 1148  ./run_tests.sh 
+ 1149  ls
+ 1150  cd Sites/
+ 1151  ls
+ 1152  cd MOTORHUB/
+ 1153  docker-compose up
+ 1154  df
+ 1155  df | grep -E 'A'
+ 1156  df | grep -E '^[a-Z0-9/:\\]+[ ]+[09]+[ ]+[0-9]+[ ]+[09]+[ ]+[0-9%]+[ ]+[a-Z0-9/:\\]'
+ 1157  df | grep -E '^[a-Z0-9/:\\]+[ ]+[09]+[ ]+[0-9]+[ ]+[09]+[ ]+[0-9%]+[ ]+[a-Z0-9/:\\]+'
+ 1158  df | grep -E 'A'
+ 1159  df
+ 1160  df | grep -E '^[a-Z0-9/:\\]+[ ]+[0-9]+[ ]+[0-9]+[ ]+[0-9]+[ ]+[0-9%]+[ ]+[a-Z0-9/:\\]+'
+ 1161  df | grep -E '^[a-Z0-9/:\\]+[ ]+[0-9]+[ ]+[0-9]+[ ]+[0-9]+[ ]+[0-9%]+[ ]+[a-Z0-9/:\\-]+'
+ 1162  df | grep -E '^[a-Z0-9/:\\]+[ ]+[0-9]+[ ]+[0-9]+[ ]+[0-9]+[ ]+[0-9]%+[ ]+[a-Z0-9/:\\-]+'
+ 1163  df | grep -E '^[a-Z0-9/:\\]+[ ]+[0-9]+[ ]+[0-9]+[ ]+[0-9]+[ ]+[0-9]+%+[ ]+[a-Z0-9/:\\-]+'
+ 1164  df | sed -E -n -e '2,$s/^([a-Z0-9/:\\])+[ ]+([0-9])+[ ]+([0-9])+[ ]+([0-9])+[ ]+([0-9]+%)+[ ]+([a-Z0-9/:\\-])+/El fichero de bloques \1, montado en \6, tiene usados \3 bloques de un total de \2 (porcentaje de \5)./p'
+ 1165  df | sed -r -n -e '2,$s/^([a-Z0-9/:\\]+)[ ]+([0-9]+)[ ]+([0-9]+)[ ]+([0-9]+)[ ]+([0-9]+%)[ ]+([a-Z0-9/]+)/El fichero de bloques \1, montado en \6, tiene usados \3 bloques de un total de \2 (porcentaje de \5)./p'
+ 1166  ls
+ 1167  ./AutoCompiler.sh 
+ 1168  ./AutoCompiler.sh
+ 1169  A
+ 1170  ./AutoCompiler.sh
+ 1171  ,s
+ 1172  ls
+ 1173  cd Desktop/
+ 1174  ls
+ 1175  cd Demo/
+ 1176  ls
+ 1177  ./AutoCompiler.sh 
+ 1178  python3
+ 1179  ls
+ 1180  cd Sites/
+ 1181  ks
+ 1182  ls
+ 1183  cd MOTORHUB/
+ 1184  ls
+ 1185  docker-copose up
+ 1186  docker-compose up
+ 1187  cd
+ 1188  cd Desktop/
+ 1189  ls
+ 1190  pdfinfo ejerciciosBHeuristica.pdf 
+ 1191  pdfinfo ejerciciosBHeuristica(1).pdf 
+ 1192  pdfinfo ejerciciosBHeuristica (1).pdf 
+ 1193  pdfinfo ejerciciosBHeuristica \(1\).pdf 
+ 1194  pdfinfo ejerciciosBHeuristica\ \(1\).pdf 
+ 1195  ls
+ 1196  cd Desktop/
+ 1197  ls
+ 1198  ./comprobar_entrega.sh 
+ 1199  ls
+ 1200  cd Desk
+ 1201  cd Desktop/
+ 1202  ls
+ 1203  pdfinfo ejerciciosBAdversarios.pdf 
+ 1204  ./AutoCompiler.sh 
+ 1205  ls
+ 1206  ./AutoCompiler.sh 
+ 1207  ls
+ 1208  cd Desktop/
+ 1209  ls
+ 1210  pdfinfo ejerciciosBAdversarios.pdf 
+ 1211  python 3
+ 1212  python3
+ 1213  ls
+ 1214  cd Repositories/
+ 1215  ls
+ 1216  cd Projects/
+ 1217  ls
+ 1218  cd TDD/
+ 1219  ls
+ 1220  ./AutoCompiler.sh 
+ 1221  cd Repositories/
+ 1222  ls
+ 1223  cd Projects/
+ 1224  ls
+ 1225  cd TDD/
+ 1226  ls
+ 1227  ./AutoCompiler.sh 
+ 1228  cd ..
+ 1229  cd taller-de-p
+ 1230  cd taller-de-py
+ 1231  cd taller-de-python/
+ 1232  ls
+ 1233  clear
+ 1234  mkserve
+ 1235  mk serve
+ 1236  mk-serve
+ 1237  mk -serve
+ 1238  ls
+ 1239  mkdocs -serve
+ 1240  mkdocs serve
+ 1241  mkdocs serve
+ 1242  pip3 install mkdocs_tree
+ 1243  mkdocs serve
+ 1244  clear
+ 1245  umask
+ 1246  sudo
+ 1247  sudo umask
+ 1248  nano /etc/passwd
+ 1249  cd ..
+ 1250  cd TDD/
+ 1251  ls
+ 1252  ./AutoCompiler.sh 
+ 1253  ls
+ 1254  cd Sites/
+ 1255  ls
+ 1256  cd MOTORHUB/
+ 1257  ls
+ 1258  docker-compose up
+ 1259  ./AutoCompiler.sh 
+ 1260  cd ..
+ 1261  cd University/
+ 1262  ls
+ 1263  cd Ed/
+ 1264  ls
+ 1265  cd P2
+ 1266  ls
+ 1267  cd i92rigam/
+ 1268  ls
+ 1269  cd build-binary_tree-Desktop-Debug/
+ 1270  ls
+ 1271  ./test_btree 
+ 1272  cd ..
+ 1273  cd
+ 1274  clear
+ 1275  ls
+ 1276  clear
+ 1277  cd Repositories/
+ 1278  ls
+ 1279  cd Projects/
+ 1280  ls
+ 1281  cd TDD
+ 1282  ls
+ 1283  ./AutoCompiler.sh 
+ 1284  clear
+ 1285  ./AutoCompiler.sh 
+ 1286  clear
+ 1287  ./AutoCompiler.sh 
+ 1288  clear
+ 1289  python3
+ 1290  pytho3
+ 1291  python3
+ 1292  ./generate.sh 
+ 1293  ssh
+ 1294  uco
+ 1295  UCO
+ 1296  ls
+ 1297  cd Repositories/
+ 1298  ls
+ 1299  cd University/
+ 1300  ls
+ 1301  cd Pas/
+ 1302  ls
+ 1303  mkdir P1
+ 1304  ls
+ 1305  cd P1
+ 1306  mkdir
+ 1307  AutoDir 
+ 1308  ls
+ 1309  cd E1
+ 1310  ls
+ 1311  cd ..
+ 1312  ls
+ 1313  cd University/
+ 1314  cd
+ 1315  cd R
+ 1316  cd ..
+ 1317  cd Repositories/
+ 1318  ls
+ 1319  cd University/
+ 1320  clear
+ 1321  ls
+ 1322  cd Pas/
+ 1323  ls
+ 1324  cd P1/
+ 1325  ls
+ 1326  AutoDir 
+ 1327  clear
+ 1328  cd ..
+ 1329  ls
+ 1330  mkdir P2
+ 1331  ls
+ 1332  cd P2
+ 1333  ls
+ 1334  cd ..
+ 1335  cd p1
+ 1336  cd P1
+ 1337  ls
+ 1338  cd E1
+ 1339  ls
+ 1340  cd ..
+ 1341  find *.sh -exec chmod u+x {} \;
+ 1342  ls
+ 1343  cd E1
+ 1344  ls
+ 1345  find *.sh -exec chmod u+x {} \;
+ 1346  ls
+ 1347  cd ..
+ 1348  ls
+ 1349  cd E2
+ 1350  ls
+ 1351  cd ..
+ 1352  find . -name *.sh -exec chmod u+x {} \;
+ 1353  ls
+ 1354  cd E2
+ 1355  ls
+ 1356  cd ..
+ 1357  ls
+ 1358  cd P2
+ 1359  ls
+ 1360  AutoDir 
+ 1361  find . -name *.sh -exec chmod u+x {} \;
+ 1362  ls
+ 1363  clear
+ 1364  cd ..
+ 1365  cd
+ 1366  cd Desktop/
+ 1367  ls
+ 1368  mkdir TDD
+ 1369  ls
+ 1370  cd TDD/
+ 1371  ls
+ 1372  clear
+ 1373  nano AutoSetUp.sh
+ 1374  find *.sh -exec chmod u+x {} \;
+ 1375  clear
+ 1376  ls
+ 1377  nano AutoSetUp.sh 
+ 1378  clips -v
+ 1379  AutoDir 
+ 1380  python3 -v
+ 1381  clear
+ 1382  python3 requirements.txt
+ 1383  pip3 requirements.txt
+ 1384  pip3 mkdocs
+ 1385  pip3 install mkdocs
+ 1386  pip3 install requirements.txt
+ 1387  mkdocs serve
+ 1388  cd ..
+ 1389  cd taller-de-python/
+ 1390  ls
+ 1391  clear
+ 1392  pip3 install requireme
+ 1393  pip3 
+ 1394  mkdocs serve
+ 1395  python3
+ 1396  ls
+ 1397  cd sites
+ 1398  cd Sites/
+ 1399  ks
+ 1400  ls
+ 1401  clear
+ 1402  cd MOTORHUB/
+ 1403  ls
+ 1404  docker-compose uo
+ 1405  docker-compose up
+ 1406  ls
+ 1407  cd Desktop/
+ 1408  ls
+ 1409  pdfinfo ejerciciosBAdversarios\ \(3\).pdf 
+ 1410  pdfinfo ejerciciosBAdversarios\ \(4\).pdf 
+ 1411  pdfinfo ejerciciosBAdversarios\ \(5\).pdf 
+ 1412  "for ((c=0;c<20;c++)); do echo -n "$(( ($$ + $RANDOM) % 100 )) "
+ 1413  "for ((c=0;c<20;c++)); do echo -n "$(( ($$ + $RANDOM) % 100 )) "
+ 1414  "for ((c=0;c<20;c++)); do echo -n "$(( ($$ + $RANDOM) % 100 )) "; done"
+ 1415  for ((c=0;c<20;c++)); do echo -n "$(( ($$ + $RANDOM) % 100 )) "; done
+ 1416  clear
+ 1417  for ((c=0;c<20;c++)); do echo -n "$(( ($$ + $RANDOM) % 100 )) "; done
+ 1418  ls
+ 1419  python3
+ 1420  ls
+ 1421  cd Desktop/
+ 1422  pdfinfo ejercicios.pdf 
+ 1423  ls
+ 1424  cd Desktop/
+ 1425  pdfinfo ejercicios.pdf 
+ 1426  "for ((c=0;c<20;c++)); do echo -n "$(( ($$ + $RANDOM) % 100 )) "; done"
+ 1427  for ((c=0;c<20;c++)); do echo -n "$(( ($$ + $RANDOM) % 100 )) "; done
+ 1428  clear
+ 1429  for ((c=0;c<20;c++)); do echo -n "$(( ($$ + $RANDOM) % 100 )) "; done
+ 1430  python3
+ 1431  clear
+ 1432  python3
+ 1433  ls
+ 1434  cd Desktop/
+ 1435  ls
+ 1436  tar -zxvf android-studio-ide-201.7199119-linux.tar.gz 
+ 1437  ls
+ 1438  cd android-studio/
+ 1439  ./configure
+ 1440  ls
+ 1441  cd bin
+ 1442  ls
+ 1443  ./configure
+ 1444  cd ..
+ 1445  ls
+ 1446  nano Install-Linux-tar.txt 
+ 1447  ls
+ 1448  python3
+ 1449  ls
+ 1450  cd Desktop/
+ 1451  ls
+ 1452  chmod -x comprobar_entrega.sh 
+ 1453  ls
+ 1454  chmod -x u comprobar_entrega.sh 
+ 1455  help chmod
+ 1456  chmod --help
+ 1457  chmod -c 777 comprobar_entrega.sh 
+ 1458  ls
+ 1459  ./comprobar_entrega.sh 
+ 1460  ls
+ 1461  cd Desktop/
+ 1462  ls
+ 1463  ./comprobar_entrega.sh 
+ 1464  ls
+ 1465  ./comprobar_entrega.sh 
+ 1466  pdfinfo ejercicios.pdf 
+ 1467  pdfinfo ejercicios\ (1).pdf 
+ 1468  pdfinfo ejercicios\ \(1\).pdf 
+ 1469  pdfinfo ejercicios\ \(2\).pdf 
+ 1470  ls
+ 1471  cd Desktop/
+ 1472  ls
+ 1473  minikube
+ 1474  sudo apt install minikube
+ 1475  cd ..
+ 1476  cd taller-de-python/
+ 1477  ls
+ 1478  mkdocs serve
+ 1479  mkdocs gh-deploy --force
+ 1480  python --version
+ 1481  python3 --version
+ 1482  python -m pip install --upgrade pip
+ 1483  python3 -m pip install --upgrade pip
+ 1484  pip install -r requirements.txt 
+ 1485  clear
+ 1486  .s
+ 1487  ls
+ 1488  cd Repositories/
+ 1489  ls
+ 1490  cd Projects/
+ 1491  l
+ 1492  cd taller-de-python/
+ 1493  ls
+ 1494  mkdocs gh-deploy --force
+ 1495  pip install   - pymdownx.highlight
+ 1496  pip install pymdownx.highlight
+ 1497  pip install pymdownx
+ 1498  pip install pymdownx-extensions
+ 1499  pip install pymdown
+ 1500  pip install pymdown-extensions
+ 1501  mkdocs -serve
+ 1502  mkdocs --serve
+ 1503  mkdocs serve
+ 1504  mkdocs --version
+ 1505  mkdocs serve
+ 1506  mkdocs build
+ 1507  pip freeze
+ 1508  ls
+ 1509  cd P2
+ 1510  ls
+ 1511  clear
+ 1512  cd E1
+ 1513  ls
+ 1514  clips
+ 1515  ls
+ 1516  cd P2
+ 1517  ls
+ 1518  cd E2
+ 1519  ls
+ 1520  clips
+ 1521  ls
+ 1522  cd P1
+ 1523  ls
+ 1524  clear
+ 1525  cd E1
+ 1526  ls
+ 1527  clear
+ 1528  ls
+ 1529  cd ..
+ 1530  ls
+ 1531  cd Ejemplos/
+ 1532  ls
+ 1533  chmod -x holaMundo.sh 
+ 1534  ls
+ 1535  chmod -xu holaMundo.sh 
+ 1536  chmod --help
+ 1537  chmod 777 holaMundo.sh 
+ 1538  ls
+ 1539  clear
+ 1540  ./holaMundo.sh 
+ 1541  clear
+ 1542  chmod u+x papelera.sh 
+ 1543  ls
+ 1544  ./papelera.sh 
+ 1545  chmod u+x holaMundoVariable.sh 
+ 1546  ls
+ 1547  clrar
+ 1548  clear
+ 1549  ./holaMundoVariable.sh 
+ 1550  clear
+ 1551  chmod u+x comillas.sh 
+ 1552  ls
+ 1553  clear
+ 1554  ls
+ 1555  clear
+ 1556  ./comillas.sh 
+ 1557  chmod u+x informacion.sh 
+ 1558  clear
+ 1559  ls
+ 1560  ./informacion.sh 
+ 1561  env
+ 1562  ./informacion.sh 
+ 1563  clear
+ 1564  chmod u+x parametros.sh 
+ 1565  clear
+ 1566  ls
+ 1567  ./parametros.sh estudiante1 estudiante2
+ 1568  clear
+ 1569  chmod u+x operaciones.sh 
+ 1570  clea
+ 1571  cleae
+ 1572  clear
+ 1573  ls
+ 1574  ./operaciones.sh 
+ 1575  clear
+ 1576  chmod u+x backup.sh 
+ 1577  ls
+ 1578  clear
+ 1579  ls
+ 1580  man cp
+ 1581  ./backup.sh operaciones.sh 
+ 1582  ls
+ 1583  ./backup.sh operaciones.sh 
+ 1584  date +%d-%m-%y
+ 1585  echo "date +%d-%m-%y"
+ 1586  fecha=date +%d-%m-%y
+ 1587  fecha=date+%d-%m-%y
+ 1588  echo "$fecha"
+ 1589  fecha=%d-%m-%y
+ 1590  echo "$fecha"
+ 1591  fecha=$[%d-%m-%y]
+ 1592  fecha=$(date +%d-%m-%y)
+ 1593  echo "$fecha"
+ 1594  ./backup.sh operaciones.sh 
+ 1595  cp --hel'
+ 1596  cp --help
+ 1597  exit
+ 1598  ls
+ 1599  cd Repositories/
+ 1600  ls
+ 1601  cd University/
+ 1602  ls
+ 1603  cd Pas/
+ 1604  ls
+ 1605  cd P1
+ 1606  ls
+ 1607  cd Ejemplos/
+ 1608  ls
+ 1609  clear
+ 1610  ./informacion.sh 
+ 1611  echo $SHVL
+ 1612  echo "$SHVL"
+ 1613  clear
+ 1614  echo "$SHLVL"
+ 1615  clear
+ 1616  ls
+ 1617  cd P2
+ 1618  cd ..
+ 1619  cd P1
+ 1620  ld
+ 1621  ls
+ 1622  cd Ejemplos/
+ 1623  ls
+ 1624  clear
+ 1625  ./backup.sh /operaciones.sh 
+ 1626  cp backup.sh 
+ 1627  cp backup.sh backup1.sh
+ 1628  ./backup.sh operaciones.sh 
+ 1629  chmod u+x saludaUsuario.sh 
+ 1630  clear
+ 1631  ./saludaUsuario.sh 
+ 1632  clear
+ 1633  ./saludaUsuario.sh 
+ 1634  clear
+ 1635  ./backup.sh operaciones.sh
+ 1636  chmod u+x numeroRango.sh 
+ 1637  ./numeroRango.sh
+ 1638  clear
+ 1639  ./backup.sh operaciones.sh
+ 1640  clear
+ 1641  ./backup.sh operaciones.sh
+ 1642  clear
+ 1643  chmod u+x ejemploFor1.sh 
+ 1644  clear
+ 1645  ls
+ 1646  ./ejemploFor1.sh 
+ 1647  chmod u+x ejemploFor2.sh 
+ 1648  ./ejemploFor2.sh 
+ 1649  chmod u+x ejemploForArg.sh 
+ 1650  ./ejemploForArg.sh 
+ 1651  ./ejemploForArg.sh estudiante1 estudiante2
+ 1652  chmod u+x ejemploForListarFicheros.sh 
+ 1653  ./ejemploForListarFicheros.sh 
+ 1654  clear
+ 1655  ./ejemploForListarFicheros.sh 
+ 1656  chmod u+x ejemploForImpFichScripts.sh 
+ 1657  ./ejemploForImpFichScripts.sh 
+ 1658  find - name "*. sh"
+ 1659  find -name "*. sh"
+ 1660  echo "$(find -name "*.sh")"
+ 1661  ./ejemploForImpFichScripts.sh 
+ 1662  clear
+ 1663  ./ejemploForImpFichScripts.sh 
+ 1664  chmod u+x ejemploForSeq.sh 
+ 1665  ./ejemploForSeq.sh 
+ 1666  clear
+ 1667  ./ejemploForSeq.sh 
+ 1668  chmod u+x ejemploForTipoC.sh 
+ 1669  ./ejemploForTipoC.sh 
+ 1670  clear
+ 1671  ./ejemploForTipoC.sh 
+ 1672  ls
+ 1673  chmod u+x arrayFor.sh 
+ 1674  ls
+ 1675  clear
+ 1676  ./arrayFor.sh 
+ 1677  chmod u+x while.sh 
+ 1678  clear
+ 1679  ls
+ 1680  ./while.sh 
+ 1681  chmod u+x until.sh 
+ 1682  ./until.sh 
+ 1683  clear
+ 1684  chmod u+x holaMundo
+ 1685  chmod u+x funcionHola.sh 
+ 1686  clear
+ 1687  ./funcionHola.sh 
+ 1688  clear
+ 1689  ./funcionHola.sh 
+ 1690  clear
+ 1691  chmod u+x funcionCheck.sh 
+ 1692  ls
+ 1693  clear
+ 1694  ./funcionCheck.sh 
+ 1695  chmod u+x ejemploHereDocument.sh 
+ 1696  ./ejemploHereDocument.sh 
+ 1697  sort 1 2 4 9 8
+ 1698  sort "1 2 4 9 8"
+ 1699  echo -e "1\4\9\7" | sort
+ 1700  echo -e "1\n4\n9\n7" | sort
+ 1701  clear
+ 1702  chmod u+x bashDepuracion.sh 
+ 1703  ./ba
+ 1704  ./bashDepuracion.sh 
+ 1705  clear
+ 1706  ./bashDepuracion.sh 
+ 1707  ls -la > directorioActual.txt
+ 1708  cat directorioActual.txt 
+ 1709  clear
+ 1710  date >> fechasespeciales . txt
+ 1711  date >> fechasespeciales.txt
+ 1712  cat fechasespeciales
+ 1713  cat fechasespeciales.txt 
+ 1714  clear
+ 1715  ls /root 2> ~/quefalloocurrio.txt
+ 1716  ls /root 
+ 1717  ls /root 2> ~/quefalloocurrio.txt
+ 1718  cp ~/archivo.txt /root 2>> ~/logdefallos.txt
+ 1719  ls
+ 1720  cat << EOF
+ 1721  ________________
+ 1722  |aaaaaaaaaaaaaa|
+ 1723  ________________
+ 1724  EOF
+ 1725  clear
+ 1726  ls
+ 1727  cd ..
+ 1728  cd E1
+ 1729  ls
+ 1730  clear
+ 1731  ls
+ 1732  clear
+ 1733  ./E1.sh /home/marcos/Repositories/University/Pas/P1/E2
+ 1734  ls
+ 1735  mkdocs serve
+ 1736  ls
+ 1737  /usr/bin/python3 /home/marcos/Desktop/myfactorial.py
+ 1738  pytest
+ 1739  path
+ 1740  echo path
+ 1741  echo $path
+ 1742  echo "$path"
+ 1743  clear
+ 1744  pytest test.py 
+ 1745  pytest /home/marcos/Desktop/Curso/
+ 1746  pytest /home/marcos/Desktop/Curso
+ 1747  clear
+ 1748  pytest
+ 1749  clear
+ 1750  pytest --version
+ 1751  pip install pytest
+ 1752  pytest --version
+ 1753  /usr/bin/python3 /home/marcos/Desktop/Curso/myfactorial.py
+ 1754  pytest test.py 
+ 1755  pytest /home/marcos/Desktop/Curso
+ 1756  pytest /home/marcos/Desktop/Curso/
+ 1757  pytest /home/marcos/Desktop/Curso
+ 1758  cd ..
+ 1759  cd Ed/
+ 1760  cd P2
+ 1761  cd TDD
+ 1762  ls
+ 1763  make
+ 1764  pytest test_.py 
+ 1765  clear
+ 1766  mkdocs serve
+ 1767  ls
+ 1768  git fetch origin
+ 1769  git checkout -b correcciones origin/correcciones
+ 1770  git checkout master
+ 1771  git merge --no-ff correcciones
+ 1772  git://github.com/aulasoftwarelibre/taller-de-python.git
+ 1773  https://github.com/aulasoftwarelibre/taller-de-python.git
+ 1774  mkdocs serve
+ 1775  cd
+ 1776  cd Desktop/
+ 1777  clear
+ 1778  /usr/bin/python3
+ 1779  /usr/bin/python3 /home/marcos/Desktop/holamundo.py
+ 1780  python3
+ 1781  cd 
+ 1782  cd Desktop/
+ 1783  ls
+ 1784  cpp holamundo.cpp
+ 1785  clear
+ 1786  g++ holamundo.cpp -o holamundo.exe
+ 1787  Clear
+ 1788  clear
+ 1789  ls
+ 1790  g++ holamundo.cpp -o holamundo.exe
+ 1791  ls
+ 1792  ./holamundo.exe 
+ 1793  mkdocs serve
+ 1794  mkdocs server
+ 1795  mkdocs serve
+ 1796  cd ..
+ 1797  cd taller-de-pas/
+ 1798  ls
+ 1799  clear
+ 1800  mkdocs serve
+ 1801  make dev
+ 1802  mkdocs serve
+ 1803  python3
+ 1804  cd Desktop/
+ 1805  ls
+ 1806  pdfinfo ejercicios.pdf 
+ 1807  cd Desktop/
+ 1808  ls
+ 1809  pdfinfo ejercicios.pdf 
+ 1810  cd Desktop/
+ 1811  dos2unix ej2.sh 
+ 1812  sudo apt install dos2unix
+ 1813  dos2unix ej2.sh 
+ 1814  dos2unix
+ 1815  ls
+ 1816  cd Desktop/
+ 1817  ls
+ 1818  ./ej2.sh 
+ 1819  cd P1
+ 1820  cd E1
+ 1821  ls
+ 1822  clear
+ 1823  ./E1.sh hola
+ 1824  clear
+ 1825  ./E1.sh hola
+ 1826  clear
+ 1827  ./E1.sh Pas
+ 1828  ./E1.sh /Pas
+ 1829  ./E1.sh /home/marcos/Repositories/University/Pas/P1/Ejemplos
+ 1830  clear
+ 1831  ./E1.sh /home/marcos/Repositories/University/Pas/P1/Ejemplos
+ 1832  ./E1.sh /home/marcos/Repositories/University/Pas/P1/Ejemplo
+ 1833  ./E1.sh /home/marcos/Repositories/University/Pas/P1/Ejemplos
+ 1834  clear
+ 1835  ls
+ 1836  ls /home/marcos/Repositories/University/Pas/P1/Ejemplos
+ 1837  ./E1.sh /home/marcos/Repositories/University/Pas/P1/Ejemplos
+ 1838  clear
+ 1839  ./E1.sh /home/marcos/Repositories/University/Pas/P1/E1/examplefiles
+ 1840  cd Desktop/
+ 1841  ls
+ 1842  chmod u+x ejercicio1.sh 
+ 1843  ls
+ 1844  ./ejercicio1.sh examplefiles/
+ 1845  clear
+ 1846  ./ejercicio1.sh examplefiles
+ 1847* ./ejercicio1.sh Repositorise
+ 1848  UCO
+ 1849  locate -q ejercicio1.sh
+ 1850  ./E1.sh examplefiles
+ 1851  cd p1
+ 1852  cd P1
+ 1853  cd E1
+ 1854  ./E1.sh examplefiles
+ 1855  ls
+ 1856  ./ejercicio1.sh examplefiles
+ 1857  ./ejercicio1.sh R
+ 1858  find R
+ 1859  find $HOME R
+ 1860  find $HOME examplefiles
+ 1861  find $HOME Repositories
+ 1862  find /home Repositories
+ 1863  clear
+ 1864  locat -b 'examplefiles'
+ 1865  locate -b 'examplefiles'
+ 1866  echo "${locate -b 'examplefiles}'
+ 1867  echo "$(locate -b 'examplefiles)'
+ 1868  find / -name arrayFor.sh
+ 1869  locate -r 
+ 1870  ./E1.sh 
+ 1871  ./E1.sh E2
+ 1872  ./E1.sh Ejemplos
+ 1873  clear
+ 1874  cd ..
+ 1875  cd P2
+ 1876  cd E2
+ 1877  ls
+ 1878  clear
+ 1879  cd ..
+ 1880  cd E1
+ 1881  clear
+ 1882  ./E
+ 1883  ./E1.sh 
+ 1884  clear
+ 1885  ./E1.sh 
+ 1886  clear
+ 1887  ./E1.sh 
+ 1888  clear
+ 1889  ./E1.sh 
+ 1890  clear
+ 1891  ./E1.sh 
+ 1892  clear
+ 1893  ./E1.sh 
+ 1894  cd Repositories/
+ 1895  ls
+ 1896  cd University/
+ 1897  ls
+ 1898  cd Pas/
+ 1899  cd P2
+ 1900  ls
+ 1901  cd E1
+ 1902  ./E1.sh 
+ 1903  clear
+ 1904  ./E1.sh 
+ 1905  clear
+ 1906  ./E1.sh 
+ 1907  clear
+ 1908  ./E1.sh 
+ 1909  clear
+ 1910  ls
+ 1911  cat films.html 
+ 1912  clear
+ 1913  ls
+ 1914  ./E1.sh 
+ 1915  cat films.html 
+ 1916  c,ear
+ 1917  clear
+ 1918  cat films.html 
+ 1919  clear
+ 1920  ./E1.sh 
+ 1921  cat films.html 
+ 1922  man sed
+ 1923  cd R
+ 1924  cd ..
+ 1925  cd Repositories/
+ 1926  ls
+ 1927  cd University/
+ 1928  ls
+ 1929  cd Pas
+ 1930  ls
+ 1931  cd P2
+ 1932  ls
+ 1933  cd E1
+ 1934  clear
+ 1935  ls
+ 1936  ./E1.sh 
+ 1937  clear
+ 1938  ./E1.sh 
+ 1939  cd /etc/passwd
+ 1940  cat /etc/passwd
+ 1941  clear
+ 1942  cat /etc/passwd
+ 1943  grep -v nologin /etc/passwd
+ 1944  cd ..
+ 1945  cd
+ 1946  cñear
+ 1947  clear
+ 1948  cd Repositories/
+ 1949  lsc
+ 1950  ls
+ 1951  cd University/
+ 1952  ls
+ 1953  cd Pas/
+ 1954  ls
+ 1955  cd P2
+ 1956  lc
+ 1957  ls
+ 1958  cd E2
+ 1959  lc
+ 1960  ls
+ 1961  clear
+ 1962  ./E2.sh 
+ 1963  cat /etc/passwd
+ 1964  ./E2.sh 
+ 1965  cat /etc/passwd
+ 1966  ./E2.sh 
+ 1967  cat /etc/passwd
+ 1968  ./E2.sh 
+ 1969  clear
+ 1970  ./E2.sh 
+ 1971  cat /etc/passwd
+ 1972  ./E2.sh 
+ 1973  cat /etc/group
+ 1974  ./E2.sh 
+ 1975  UCO
+ 1976  UCO
+ 1977  clear
+ 1978  cat /etc/passwd
+ 1979  UCO
+ 1980  ls
+ 1981  cd Repositories/
+ 1982  ls
+ 1983  cd University/
+ 1984  ls
+ 1985  cd Pas/
+ 1986  ls
+ 1987  cd P2
+ 1988  l
+ 1989  ls
+ 1990  cd E2
+ 1991  lc
+ 1992  ls
+ 1993  clear
+ 1994  ./E2.sh 
+ 1995  UCO
+ 1996  ./E2.sh 
+ 1997  UCO
+ 1998  ./E2.sh 
+ 1999  UCO
+ 2000  ls
+ 2001  cd Desktop/
+ 2002  ls
+ 2003  cd P2
+ 2004  ls
+ 2005  chmod u+x E3.sh 
+ 2006  clear
+ 2007  ls
+ 2008  ./E3.sh 
+ 2009  ./E3.sh pass.txt
+ 2010  ./E5.sh 
+ 2011  ls
+ 2012  chmod u+x E6.sh 
+ 2013  ls
+ 2014  ./E6.sh 
+ 2015  history
+ 2016  history > history.txt
