@@ -1,3 +1,0 @@
-/home/kan0/Desktop/Practica_ED/binary_tree/build/CMakeFiles/rebuild_cache.dir
-/home/kan0/Desktop/Practica_ED/binary_tree/build/CMakeFiles/edit_cache.dir
-/home/kan0/Desktop/Practica_ED/binary_tree/build/CMakeFiles/test_btree.dir

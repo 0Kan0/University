@@ -1,4 +1,0 @@
-/home/kan0/Desktop/Practica_ED/i92catua/alphabet_soup/build/CMakeFiles/rebuild_cache.dir
-/home/kan0/Desktop/Practica_ED/i92catua/alphabet_soup/build/CMakeFiles/edit_cache.dir
-/home/kan0/Desktop/Practica_ED/i92catua/alphabet_soup/build/CMakeFiles/test_alphabet_soup_solver.dir
-/home/kan0/Desktop/Practica_ED/i92catua/alphabet_soup/build/CMakeFiles/test_trie.dir
