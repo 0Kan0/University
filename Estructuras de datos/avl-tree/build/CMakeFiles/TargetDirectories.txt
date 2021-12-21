@@ -1,0 +1,5 @@
+/home/kan0/Desktop/Practica_ED/avl-tree/build/CMakeFiles/rebuild_cache.dir
+/home/kan0/Desktop/Practica_ED/avl-tree/build/CMakeFiles/edit_cache.dir
+/home/kan0/Desktop/Practica_ED/avl-tree/build/CMakeFiles/test_avltree.dir
+/home/kan0/Desktop/Practica_ED/avl-tree/build/CMakeFiles/test_bstree.dir
+/home/kan0/Desktop/Practica_ED/avl-tree/build/CMakeFiles/test_avltnode.dir

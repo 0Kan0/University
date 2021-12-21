@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kan0/Desktop/Practica_ED/i92catua/alphabet_soup/trie.cpp
+cassert
+-
+trie.hpp
+/home/kan0/Desktop/Practica_ED/i92catua/alphabet_soup/trie.hpp
+
+/home/kan0/Desktop/Practica_ED/i92catua/alphabet_soup/trie.hpp
+memory
+-
+string
+-
+vector
+-
+map
+-
+

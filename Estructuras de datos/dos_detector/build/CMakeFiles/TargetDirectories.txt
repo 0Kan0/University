@@ -1,0 +1,4 @@
+/home/kan0/Desktop/Practica_ED/i92catua/dos_detector/build/CMakeFiles/edit_cache.dir
+/home/kan0/Desktop/Practica_ED/i92catua/dos_detector/build/CMakeFiles/rebuild_cache.dir
+/home/kan0/Desktop/Practica_ED/i92catua/dos_detector/build/CMakeFiles/test_dos_detector.dir
+/home/kan0/Desktop/Practica_ED/i92catua/dos_detector/build/CMakeFiles/test_hash_table.dir

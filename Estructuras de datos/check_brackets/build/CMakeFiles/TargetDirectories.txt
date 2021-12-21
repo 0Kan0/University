@@ -1,0 +1,5 @@
+/home/kan0/Desktop/Practica_ED/i92catua/check_brackets/build/CMakeFiles/rebuild_cache.dir
+/home/kan0/Desktop/Practica_ED/i92catua/check_brackets/build/CMakeFiles/edit_cache.dir
+/home/kan0/Desktop/Practica_ED/i92catua/check_brackets/build/CMakeFiles/test_check_brackets.dir
+/home/kan0/Desktop/Practica_ED/i92catua/check_brackets/build/CMakeFiles/test_stack.dir
+/home/kan0/Desktop/Practica_ED/i92catua/check_brackets/build/CMakeFiles/test_slist.dir
